@@ -27,6 +27,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/slash theme-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "slash theme logo",
+        "label": "logo",
+        "path": "./assets/logo.png"
+      }
     ]
   }
 }
