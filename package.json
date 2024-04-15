@@ -1,0 +1,32 @@
+{
+  "name": "slash-theme",
+  "displayName": "slash-theme",
+  "description": "A Dark VS Code theme",
+  "version": "1.0.0",
+  "publisher": "SlashSpaces",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3george/slash-theme"
+  },
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "slash",
+    "slash spaces"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "slash theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slash theme-color-theme.json"
+      }
+    ]
+  }
+}
