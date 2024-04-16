@@ -20,6 +20,8 @@
 		"list.activeSelectionBackground": "#6c809325",
 		"list.hoverBackground": "#6c809325",
 		"list.activeSelectionForeground": "#ffffff",
+		"list.errorForeground": "#FA3877",
+		"list.warningForeground": "#ffaa00",
 
 		"statusBar.background": "#272e35",
 		"statusBar.foreground": "#b9c4d0",
@@ -80,6 +82,10 @@
 		"scrollbarSlider.background": "#454c54",
 		"button.background": "#00bfff",
 		"textLink.foreground": "#99b3ff",
+
+		"errorLens.errorForeground": "#FA3877",
+		"errorLens.infoForeground": "#99b3ff",
+		"errorLens.warningForeground": "#ffaa00"
 	},
 	"tokenColors": [
 		{
